@@ -1,0 +1,2 @@
+Execution time is almost 5 hrs.
+e.euclidean was written to all the files- which is wrong as e.manhattan and e.lmax were not written
